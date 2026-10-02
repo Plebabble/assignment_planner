@@ -1,0 +1,14 @@
+# Personal assignment and calendar data
+assignments.json
+calendar_events.json
+.ics
+
+# Python temporary files
+__pycache__
+.pyc
+.venv
+venv
+
+# Local secrets
+.env
+.streamlitsecrets.toml

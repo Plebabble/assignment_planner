@@ -1,0 +1,28 @@
+{
+  "assignments": [
+    {
+      "name": "Physics HW 3",
+      "total_units": 12,
+      "completed_units": 4,
+      "unit": "Questions",
+      "due_date": "2026-10-06",
+      "course": "Phys 151"
+    },
+    {
+      "name": "7.2 Math",
+      "total_units": 10,
+      "completed_units": 0,
+      "unit": "Questions",
+      "due_date": "2026-10-07",
+      "course": "Math 131"
+    },
+    {
+      "name": "read a contract with god",
+      "total_units": 193,
+      "completed_units": 0,
+      "unit": "Questions",
+      "due_date": "2026-10-28",
+      "course": "CompLit 335"
+    }
+  ]
+}
